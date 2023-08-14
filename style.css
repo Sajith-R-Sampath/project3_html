@@ -6,7 +6,8 @@
 
 body {
     align-items: center;
-    
+    margin-left: 5%;
+    margin-right: 5%;
     
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: rgb(235, 243, 226);
