@@ -49,7 +49,7 @@ header {
 }
 
 header img {
-    max-width: 100%;
+    max-width: 350px;
 }
 
 nav {
@@ -198,7 +198,10 @@ footer {
         grid-template-rows: auto auto; /* Divided main into two rows */
         
     }
-    
+
+    header img {
+    max-width: 100%;
+    }
     
     nav a {
         
